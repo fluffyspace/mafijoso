@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mafijoso</string>
+    <string name="mafia">Mafija</string>
+    <string name="investigator">Istražitelj</string>
+    <string name="doctor">Doktor</string>
+    <string name="villager">Seljak</string>
+    <string name="igraj_ponovno">Igraj ponovno</string>
+    <string name="sljede_a_runda">Sljedeća runda</string>
+    <string name="next">Dalje</string>
+    <string name="two_mafias">Dvije mafije</string>
+    <string name="start_game">Započni igru</string>
+    <string name="players_name">Unesi ime igrača</string>
+    <string name="add_players">Dodaj igrače</string>
+    <string name="who_kill">Odaberi koga želiš ubiti</string>
+    <string name="who_cure">Odaberi koga želiš izliječiti</string>
+    <string name="discuss_and_vote">Diskusija i glasanje</string>
+    <string name="vote_results">Rezultati glasanja</string>
+    <string name="game_over">Kraj igre</string>
+    <string name="vrijeme_izme_u_igra_a">Vrijeme između igrača u sekundama</string>
+    <string name="discussion_time">Trajanje rasprave u sekundama</string>
+    <string name="skip_voting">Preskoči glasanje</string>
+    <string name="investigate">Odaberi koga želiš istražiti</string>
+    <string name="display_roles">Prikazuj uloge (za testiranje)</string>
+    <string-array name="deaths_male">
+        <item>Probudio vas je glasan vrisak. Sa drugog kata na glavu je pao ;.</item>
+        <item>Vrijeme za jutarnju kaficu, no čim ste ušli u kuhinju, vidjeli ste da je ; leži kraj vilice u tosteru.</item>
+        <item>Zvoni telefon, bolnica vas obavještava da je ; poginuo u prometnoj nesreći.</item>
+        <item>Lokva krvi okružuje ;, koji je bio prebijen do smrti sa kafe aparatom.</item>
+        <item>U ladici nedostaje nož! Kasnije ga nalazite zabijenog u dupetu mrtvog ;.</item>
+        <item>Nema ničega boljeg od tosta za doručak. Umjesto u kuhinji, toster nalazite kako se kupa u kadi sa ;.</item>
+        <item>Dobro jutro kafopije! Pijete zajedno kaficu na terasi i uživate u pogledu, ali pogled vam skreće ; koji se počinje gušiti te dramatično pada na pod.</item>
+        <item>Prije uzimanja lijekova bitno je pogledati rok trajanja, ; je to danas naučio.</item>
+        <item>Što više to bolje! To si je mislio ; dok je uzimao malo previše antidepresiva.</item>
+        <item>; je slučajno koristio lijepilo umjesto paste za zube.</item>
+        <item>; je zaglavio u veš mašini i ugušio se.</item>
+        <item>Kako bi zaradio za novi auto, ; je prodao oba svoja bubrega.</item>
+        <item>; se igrao sa psom, ubrzo je shvatio da, umjesto loptice, u ruci drži košnicu.</item>
+        <item>; je zaboravio nahraniti mačke koje nisu imale ništa za jest osim njega.</item>
+        <item>Očajan ; je otišao na spoj sa prvom osobom koju je vidio na tinderu... Nikad se nije vratio.</item>
+        <item>Nekada, dildo može biti prevelik. ; si je rastvorio šupak i raskrvario do smrti.</item>
+        <item>„Zašto bi medvjedi bili toliko slatki ako ih ne možeš dragati“ – zadnje riječi od ;.</item>
+        <item>; je imao gadan LSD trip i mislio da može letjeti... Bacio se sa litice.</item>
+        <item>Nekada je teško razlikovati jestive od otrovnih gljiva. ; je pojeo krivu vrstu gljiva, no, umjesto smrti, postao je zombi. Zatim ga je susjed upucao u glavu.</item>
+        <item>Svaka čast, ; je dobio na lotu! Sve novce odlučio je iskoristiti za put do titanika u podmornici kojom upravlja bilioner sa joystikom. Na kraju podmornica je implodirala... </item>
+        <item>; je zaspao sa cigarom u ustima i zapalio kuću.</item>
+    </string-array>
+    <string-array name="deaths_female">
+        <item>Probudio vas je glasan vrisak. Sa drugog kata na glavu je pala ;.</item>
+        <item>Vrijeme za jutarnju kaficu, no čim ste ušli u kuhinju, vidjeli ste da je ; leži kraj vilice u tosteru.</item>
+        <item>Zvoni telefon, bolnica vas obavještava da je ; poginula u prometnoj nesreći.</item>
+        <item>Lokva krvi okružuje ;, koja je bila prebijena do smrti sa kafe aparatom.</item>
+        <item>U ladici nedostaje nož! Kasnije ga nalazite zabijenog u dupetu mrtvoe ;.</item>
+        <item>Nema ničega boljeg od tosta za doručak. Umjesto u kuhinji, toster nalazite kako se kupa u kadi sa ;.</item>
+        <item>Dobro jutro kafopije! Pijete zajedno kaficu na terasi i uživate u pogledu, ali pogled vam skreće ; koja se počinje gušiti te dramatično pada na pod.</item>
+        <item>Prije uzimanja lijekova bitno je pogledati rok trajanja, ; je to danas naučila.</item>
+        <item>Što više to bolje! To si je mislila ; dok je uzimala malo previše antidepresiva.</item>
+        <item>; je slučajno koristila lijepilo umjesto paste za zube.</item>
+        <item>; je zaglavila u veš mašini i ugušila se.</item>
+        <item>Kako bi zaradila za novi auto, ; je prodala oba svoja bubrega.</item>
+        <item>; se igrao sa psom, ubrzo je shvatila da, umjesto loptice, u ruci drži košnicu.</item>
+        <item>; je zaboravila nahraniti mačke koje nisu imale ništa za jest osim nje.</item>
+        <item>Očajana ; je otišla na spoj sa prvom osobom koju je vidjela na tinderu... Nikad se nije vratila.</item>
+        <item>Nekada, dildo može biti prevelik. ; si je rastvorila šupak i raskrvarila do smrti.</item>
+        <item>„Zašto bi medvjedi bili toliko slatki ako ih ne možeš dragati“ – zadnje riječi od ;.</item>
+        <item>; je imala gadan LSD trip i mislila da može letjeti... Bacila se sa litice.</item>
+        <item>Nekada je teško razlikovati jestive od otrovnih gljiva. ; je pojela krivu vrstu gljiva, no, umjesto smrti, postala je zombi. Zatim ju je susjed upucao u glavu.</item>
+        <item>Svaka čast, ; je dobila na lotu! Sve novce odlučila je iskoristiti za put do titanika u podmornici kojom upravlja bilioner sa joystikom. Na kraju podmornica je implodirala... </item>
+        <item>; je zaspala sa cigarom u ustima i zapalila kuću.</item>
+    </string-array>
+    <string-array name="cures_male">
+        <item>Srećom, doktor je reagirao na vrijeme.</item>
+        <item>No udar stuje nije problem za ovog svemogućeg doktora!</item>
+        <item>Ni jedan doktor nije ravan našem doktoru koji je odmah znao što činiti.</item>
+        <item>Doktor je isti kafe aparat koristio za oživljavanje.</item>
+        <item>Doktor je izvršio reanimaciju udaranjem i puhanjem u stražnjicu.</item>
+        <item>Nakon prolaženja 7 planina i 7 mora, ubijanjem zmaja i nalaženjem sveznajućeg patuljka, doktor primjenjuje magiju kako bi oživio ;.</item>
+        <item>Doktor je odmah našao protuotrov i spasio ;.</item>
+        <item>Hvala Bogu, doktor je znao kako pomoći.</item>
+        <item>Doktoru ovo nije prvi slučaj predoziranja te je znao što činiti.</item>
+        <item>Doktor odstranjuje lijepilo stavljanjem acetona u usta.</item>
+        <item>Srećom, doktor je njegov polubrat.</item>
+        <item>Kupac je bio doktor te mu je vratio jedan bubreg.</item>
+        <item>Saznalo se da je ; alergičan na ubod pčela, srećom doktor je imao EpiPen.</item>
+        <item>Doktor je natjerao mačke da se ispovrate te je selotejpom spojio ; na mjesto.</item>
+        <item>Doktor je pogledao previše kriminalističkih serija te je stečeno znanje iskoristio kako bi pronašao ;, zatočenog u podrumu psihopata.</item>
+        <item>Doktor je lijevkom vratio krv u šupak i spasio ;.</item>
+        <item>Posjedujući crni pojas u karateu, doktor je izmlatao medvjeda, otvorio mu utrobu i spasio ;.</item>
+        <item>Doktor ga je uhvatio i dao mu malo mlijeka za smirenje.</item>
+        <item>Doktor je od mrtvog zobija napravio Frankensteina.</item>
+        <item>Doktor je podmornicu nazad napuhao sa kisikom, te je podmornica sigurno isplutala na površinu.</item>
+        <item>Doktor je u svom slobodnom vremenu vatrogasac.</item>
+    </string-array>
+    <string-array name="cures_female">
+        <item>Srećom, doktor je reagirao na vrijeme.</item>
+        <item>No udar stuje nije problem za ovog svemogućeg doktora!</item>
+        <item>Ni jedan doktor nije ravan našem doktoru koji je odmah znao što činiti.</item>
+        <item>Doktor je isti kafe aparat koristio za oživljavanje.</item>
+        <item>Doktor je izvršio reanimaciju udaranjem i puhanjem u stražnjicu.</item>
+        <item>Nakon prolaženja 7 planina i 7 mora, ubijanjem zmaja i nalaženjem sveznajućeg patuljka, doktor primjenjuje magiju kako bi oživio ;.</item>
+        <item>Doktor je odmah našao protuotrov i spasio ;.</item>
+        <item>Hvala Bogu, doktor je znao kako pomoći.</item>
+        <item>Doktoru ovo nije prvi slučaj predoziranja te je znao što činiti.</item>
+        <item>Doktor odstranjuje lijepilo stavljanjem acetona u usta.</item>
+        <item>Srećom, doktor je njezin polubrat.</item>
+        <item>Kupac je bio doktor te joj je vratio jedan bubreg.</item>
+        <item>Saznalo se da je ; alergična na ubod pčela, srećom doktor je imao EpiPen.</item>
+        <item>Doktor je natjerao mačke da se ispovrate te je selotejpom spojio ; na mjesto.</item>
+        <item>Doktor je pogledao previše kriminalističkih serija te je stečeno znanje iskoristio kako bi pronašao ;, zatočenu u podrumu psihopata.</item>
+        <item>Doktor je lijevkom vratio krv u šupak i spasio ;.</item>
+        <item>Posjedujući crni pojas u karateu, doktor je izmlatao medvjeda, otvorio mu utrobu i spasio ;.</item>
+        <item>Doktor ju je uhvatio i dao joj malo mlijeka za smirenje.</item>
+        <item>Doktor je od mrtvog zobija napravio Frankensteina.</item>
+        <item>Doktor je napuhao nazad podmornicu sa kisikom, te je podmornica sigurno isplutala na površinu.</item>
+        <item>Doktor je u svom slobodnom vremenu vatrogasac.</item>
+    </string-array>
+    <string name="everyone_wakeup">"Svi se probudite i glasajte! "</string>
+    <string name="nobody_killed">Nitko nije ubijen.</string>
+    <string name="everyone_sleep">Svi idite spavati.</string>
+    <string name="x_wakeup">;, probudi se.</string>
+    <string name="x_sleep">;, idi spavati.</string>
+    <string name="voted_dies">"Izglasano je da ; umire. "</string>
+    <string name="mafia_wins">Mafija pobjeđuje!</string>
+    <string name="villagers_win">Seljaci pobjeđuju!</string>
+    <string name="nobody_voted_out">Nitko nije izbačen.</string>
+    <string name="croatian">Hrvatski</string>
+    <string name="pauza">Pauza</string>
+    <string name="igra_je_pauzirana">Igra je pauzirana.</string>
+    <string name="restartaj_igru">Restartaj igru</string>
+    <string name="nastavi">Nastavi</string>
+</resources>

@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Mafijoso</string>
+    <string name="mafia">Mafia</string>
+    <string name="investigator">Investigator</string>
+    <string name="doctor">Doctor</string>
+    <string name="villager">Villager</string>
+    <string name="igraj_ponovno">Play again</string>
+    <string name="sljede_a_runda">Next round</string>
+    <string name="next">Next</string>
+    <string name="two_mafias">Two mafias</string>
+    <string name="start_game">Start game</string>
+    <string name="players_name">Enter player\'s name</string>
+    <string name="add_players">Add players</string>
+    <string name="who_kill">Pick who you want to kill</string>
+    <string name="who_cure">Pick who you want to cure</string>
+    <string name="vote_results">Vote results</string>
+    <string name="game_over">Game over</string>
+    <string name="discuss_and_vote">Discuss and vote</string>
+    <string name="vrijeme_izme_u_igra_a">Time between players in seconds</string>
+    <string name="discussion_time">Discussion duration in seconds</string>
+    <string name="skip_voting">Skip voting</string>
+    <string name="investigate">Pick who you want to investigate</string>
+    <string name="display_roles">Display roles (for testing)</string>
+    <string-array name="deaths_female">
+        <item>A loud scream woke you up. ; fell on her head from the second floor</item>
+        <item>Time for morning coffee, but as soon as you entered the kitchen, you saw ; with a fork in the toaster.</item>
+        <item>The phone rings, the hospital informs you that ; died in a car accident.</item>
+        <item>A pool of blood surrounds ;, who was beaten to death with a coffee machine.</item>
+        <item>The drawer is missing a knife! Later you find it stuck in the ass of a dead ;.</item>
+        <item>There\'s nothing better than toast for breakfast. Instead of in the kitchen, you find the toaster taking a bath in the bathtub with ;.</item>
+        <item>Good morning coffee drinkers! You drink coffee together on the terrace and enjoy the view, but your eyes are diverted by ;, who begins to suffocate and dramatically falls to the floor.</item>
+        <item>Before taking medicines, it is important to look at the expiration date, ; learned that today.</item>
+        <item>The more the better! That\'s what ; thought while taking a little too many antidepressants.</item>
+        <item>; accidentally used glue instead of toothpaste.</item>
+        <item>; got stuck in the washing machine and suffocated.</item>
+        <item>In order to earn money for a new car, ; sold both of her kidneys.</item>
+        <item>; was playing with the dog, she soon realized that, instead of a ball, she was holding a beehive in her hand.</item>
+        <item>; forgot to feed the cats who had nothing to eat but her.</item>
+        <item>Desperate ; went on a date with the first person she saw on tinder... She never came back.</item>
+        <item>Sometimes, the dildo can be too big. ; opened her ass and bled to death.</item>
+        <item>"Why would bears be so cute if you can\'t love them" - ;\'s last words.</item>
+        <item>; had a nasty LSD trip and thought she could fly... She threw herself off a cliff.</item>
+        <item>Sometimes it is difficult to distinguish edible from poisonous mushrooms. ; ate the wrong kind of mushrooms, but instead of dying, she became a zombie. Then a neighbor shot her in the head.</item>
+        <item>Congratulations, ; won the lottery! She decided to use all the money to travel to the Titanic in a submarine controlled by a billionaire with a joystick. In the end, the submarine imploded...</item>
+        <item>; fell asleep with a cigar in her mouth and set the house on fire.</item>
+    </string-array>
+    <string-array name="deaths_male">
+        <item>A loud scream woke you up. ; fell on his head from the second floor.</item>
+        <item>Time for morning coffee, but as soon as you entered the kitchen, you saw ; with a fork in the toaster.</item>
+        <item>The phone rings, the hospital informs you that ; died in a car accident.</item>
+        <item>A pool of blood surrounds ;, who was beaten to death with a coffee machine.</item>
+        <item>The drawer is missing a knife! Later you find it stuck in dead ;\'s ass.</item>
+        <item>There\'s nothing better than toast for breakfast. Instead of in the kitchen, you find the toaster bathing in the bathtub with ;.</item>
+        <item>Good morning coffee drinkers! You drink coffee together on the terrace and enjoy the view, but your eyes are diverted by ;, who begins to choke and dramatically falls to the floor.</item>
+        <item>Before taking medicines, it is important to look at the expiration date, ; learned that today.</item>
+        <item>The more the better! That\'s what ; thought when he was taking a little too many antidepressants.</item>
+        <item>; accidentally used glue instead of toothpaste.</item>
+        <item>; got stuck in the washing machine and suffocated.</item>
+        <item>In order to earn money for a new car, ; sold both of his kidneys.</item>
+        <item>; was playing with the dog, he soon realized that, instead of a ball, he was holding a beehive in his hand.</item>
+        <item>; forgot to feed the cats who had nothing to eat but him.</item>
+        <item>Desperate ; went on a date with the first person he saw on tinder... He never came back.</item>
+        <item>Sometimes, the dildo can be too big. ; opened his ass and bled to death.</item>
+        <item>"Why would bears be so cute if you can\'t love them" - ;\'s last words.</item>
+        <item>; had a nasty LSD trip and thought he could fly... He threw himself off a cliff.</item>
+        <item>Sometimes it is difficult to distinguish edible from poisonous mushrooms. ; ate the wrong kind of mushrooms, but instead of dying, he became a zombie. Then a neighbor shot him in the head.</item>
+        <item>Congratulations, ; won the lottery! He decided to use all the money to travel to the Titanic in a submarine controlled by a billionaire with a joystick. In the end, the submarine imploded...</item>
+        <item>; fell asleep with a cigar in his mouth and set fire to the house.</item>
+    </string-array>
+    <string-array name="cures_male">
+        <item>Fortunately, the doctor reacted in time.</item>
+        <item>But a stroke is not a problem for this almighty doctor!</item>
+        <item>No doctor is equal to our doctor who immediately knew what to do.</item>
+        <item>The doctor used the same coffee machine to revive him.</item>
+        <item>The doctor performed resuscitation by hitting and blowing on the buttocks.</item>
+        <item>After traversing 7 mountains and 7 seas, slaying a dragon and finding an omniscient dwarf, the doctor uses magic to revive ;.</item>
+        <item>The doctor immediately found an antidote and saved ;.</item>
+        <item>Thank God, the doctor knew how to help.</item>
+        <item>This is not the first overdose case for the doctor and he knew what to do.</item>
+        <item>The doctor removes the adhesive by putting acetone in the mouth.</item>
+        <item>Fortunately, the doctor is his half-brother.</item>
+        <item>The customer was a doctor and he restored one of his kidneys.</item>
+        <item>It was found out that ; is allergic to bee stings, luckily the doctor had an EpiPen.</item>
+        <item>The doctor made the cats vomit and taped the ; in place.</item>
+        <item>The doctor watched too many crime series and used the knowledge gained to find ;, imprisoned in the basement of a psychopath.</item>
+        <item>The doctor funneled the blood back into the anus and saved ;.</item>
+        <item>Having a black belt in karate, the doctor beat up the bear, opened its guts and saved ;.</item>
+        <item>The doctor caught him and gave him some milk to calm him down.</item>
+        <item>The doctor made Frankenstein out of a dead zombie.</item>
+        <item>The doctor inflated the submarine back with oxygen, and the submarine safely floated to the surface.</item>
+        <item>The doctor is a fireman in his spare time.</item>
+    </string-array>
+    <string-array name="cures_female">
+        <item>Fortunately, the doctor reacted in time.</item>
+        <item>But a stroke is not a problem for this almighty doctor!</item>
+        <item>No doctor is equal to our doctor who immediately knew what to do.</item>
+        <item>The doctor used the same coffee machine to revive him.</item>
+        <item>The doctor performed resuscitation by hitting and blowing on the buttocks.</item>
+        <item>After traversing 7 mountains and 7 seas, slaying a dragon and finding an omniscient dwarf, the doctor uses magic to revive ;.</item>
+        <item>The doctor immediately found an antidote and saved ;.</item>
+        <item>Thank God, the doctor knew how to help.</item>
+        <item>This is not the first overdose case for the doctor and he knew what to do.</item>
+        <item>The doctor removes the adhesive by putting acetone in the mouth.</item>
+        <item>Fortunately, the doctor is her half-brother.</item>
+        <item>The customer was a doctor and he restored one of her kidneys.</item>
+        <item>It was found out that ; is allergic to bee stings, luckily the doctor had an EpiPen.</item>
+        <item>The doctor made the cats vomit and taped the ; in place.</item>
+        <item>The doctor watched too many crime series and used his knowledge to find ;, imprisoned in the psychopath\'s basement.</item>
+        <item>The doctor funneled the blood back into the anus and saved ;.</item>
+        <item>Having a black belt in karate, the doctor beat up the bear, opened its guts and saved ;.</item>
+        <item>The doctor caught her and gave her some milk to calm her down.</item>
+        <item>The doctor made Frankenstein out of a dead zombie.</item>
+        <item>The doctor re-inflated the submarine with oxygen, and the submarine safely floated to the surface.</item>
+        <item>The doctor is a fireman in his spare time.</item>
+    </string-array>
+    <string name="everyone_wakeup">"Everyone, wake up and vote! "</string>
+    <string name="nobody_killed">Nobody was killed.</string>
+    <string name="everyone_sleep">Everyone, go to sleep.</string>
+    <string name="x_wakeup">;, wake up.</string>
+    <string name="x_sleep" translatable="false">;, go to sleep.</string>
+    <string name="voted_dies">; was voted out.</string>
+    <string name="mafia_wins">Mafia wins!</string>
+    <string name="villagers_win">Villagers win!</string>
+    <string name="nobody_voted_out">Nobody was voted out.</string>
+    <string name="croatian">Croatian</string>
+    <string name="pauza">Pause</string>
+    <string name="igra_je_pauzirana">Game is paused.</string>
+    <string name="restartaj_igru">Reset game</string>
+    <string name="nastavi">Continue</string>
+</resources>
